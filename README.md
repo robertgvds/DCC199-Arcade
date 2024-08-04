@@ -12,6 +12,5 @@ Desenvolvido como trabalho final da disciplina de Algoritmos 1 da UFJF.
      ---|---|---                                     _~)_)_~    
         | O | X                                     )_))_))_)   
      ---|---|---                                    _!__!__!_   
-      O | X | O                                     \______t/  
---- JOGO DA VELHA ---                          --- BATALHA NAVAL ---
+      O | X | O                                     \______t/ 
 
